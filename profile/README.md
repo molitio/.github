@@ -17,7 +17,7 @@
 ## Mission
 
 Open source initiative to develop impactful digital solutions for human problems in service of humanity for every human being.
-By creating digital tools, that are accessible easily to anyone and can perform at high capacities to serve the population of the population of planet earth, and possibly other communities anywhere else.
+By creating digital tools, that are accessible easily to anyone and can perform at high capacities to serve the population of planet earth, and possibly other communities anywhere else.
 
 ## Main Initiatieves
 
