@@ -21,8 +21,3 @@ By creating digital tools, that are accessible easily to anyone and can perform 
   A human lost and found that enables the identification of missing humans. It seeks to
   provide emergency response to listed contacts and possibly local ER organizations
 
-
-## Contributors
-
-    Peter Koller
-    Erzsébet Antal-Somogyi
