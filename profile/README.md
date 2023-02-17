@@ -1,23 +1,9 @@
-we are digital organization seeking to provide digital solutions to human problems. focused on our open source web content tools we offer custom solutions to non-profit and commercial channels
+Welcome to Molitio's GitHub repository. I'm passionate about providing digital solutions to address human problems, and my aim is to leverage technology to improve people's lives. As a growing organization, I work with consultants to provide custom digital solutions to non-profit and commercial organizations.
 
-## Mission
+My focus is on developing open-source web content tools that are customizable to help organizations build engaging and effective websites. These tools can be tailored to meet specific organizational needs and goals, and I believe that they can make a significant difference in people's lives.
 
-Open source initiative to develop impactful digital solutions for human problems in service of humanity for every human being.
-By creating digital tools, that are accessible easily to anyone and can perform at high capacities to serve the population of planet earth, and possibly other communities anywhere else.
+In addition to the open-source offerings, I provide custom digital solutions to my clients. My specialization is in developing bespoke software solutions that can help organizations streamline their operations, improve their online presence, and ultimately achieve their strategic objectives. Although Molitio is a growing organization, I'm committed to providing the best possible service to my clients and ensuring that their digital solutions meet their specific requirements.
 
-## Main Initiatieves
+My mission is to create digital solutions that can help solve human problems, and I believe that technology can play a significant role in making a positive impact. I'm constantly exploring new ways to improve my offerings and stay at the forefront of the digital solutions industry.
 
-- ### #ui-core
-
-  @molitio/ui-core is a package in a yarn pnp monorepo, that can be bundled with rollup to a package. It provides React components to make web content creation more efficient, and utilize Re-usable build tools. Combined with styled-components, anticipation of external owerrides, and internal app contect with theme management it seeks to cover the major aspects of a ui framework. 
-
-- ### #everyhuman - molitio.org (friday)
-
-  A community based resource distribution system that samples the needs of individuals and the
-  possible contribution of individuals and connects them a accordingly. Based on giving.
-
-- ### #hulaf - molitio.org (friday)
-
-  A human lost and found that enables the identification of missing humans. It seeks to
-  provide emergency response to listed contacts and possibly local ER organizations
-
+Thank you for taking the time to explore Molitio's GitHub repository. If you have any questions or would like to discuss how we can help solve your digital problems, please don't hesitate to get in touch.
