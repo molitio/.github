@@ -26,6 +26,8 @@ We operate currently as an LLC with a strong commitment to transparency, account
 
 We welcome collaborations and contributions from all. If you're passionate about making a difference, have a knack for problem-solving, or are skilled in software development, consider joining our mission. Feel free to reach out to us with your ideas, contributions, or even just to say hello!
 
+[Discord](https://discord.gg/n7ATjVHm)
+
 ## Contact Us
 
 Your feedback and inquiries are important to us. Feel free to reach out to us for any questions, suggestions, or potential collaborations.
